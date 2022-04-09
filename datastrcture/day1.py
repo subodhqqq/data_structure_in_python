@@ -33,8 +33,6 @@ print(list2[3])
 # the list can be added list can be modified and list can be deleted as the its method
 # example of add in list
 list2.append(4)# the append keyword the  value are added in the list1
-
-
 # list are deleted as the method of deleted
 del list2[0]
 
@@ -47,3 +45,12 @@ list2[2]="hello i am list"
 #list are mutable
 # list are dynamic
 # list can store the data group of data in sequence
+
+
+#
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/subodhqqq/data_structure_in_python.git
+# git push -u origin main
